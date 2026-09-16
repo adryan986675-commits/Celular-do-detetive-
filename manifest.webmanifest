@@ -1,0 +1,11 @@
+{
+  "name": "Detetive 100",
+  "short_name": "Detetive 100",
+  "description": "Jogo de investigação e mistério com 100 casos.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10172a",
+  "theme_color": "#6c5ce7",
+  "orientation": "portrait",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
